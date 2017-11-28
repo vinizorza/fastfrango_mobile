@@ -30,7 +30,7 @@
     <preference name="xwalkMode" value="embedded" />
     <preference name="xwalkMultipleApk" value="true" />
     <plugin name="cordova-plugin-ionic" spec="^2.0.3">
-        <variable name="APP_ID" value="7d482467" />
+        <variable name="APP_ID" value="07354f02" />
         <variable name="CHANNEL_NAME" value="Master" />
         <variable name="UPDATE_METHOD" value="background" />
     </plugin>
